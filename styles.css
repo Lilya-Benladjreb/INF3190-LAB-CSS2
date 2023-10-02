@@ -1,0 +1,49 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    margin-left: 33%;
+    margin-right: 33%;
+    width: 33%;
+}
+
+hr {
+    width: 90%;
+    border-width: 5px;
+}
+
+.entete {
+    padding: 5%;
+    background-color:rgb(165, 111, 111);
+}
+
+.entete h1 {
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 10%;
+}
+
+h3, .date{
+    padding-left: 2%;
+    font-style: italic ;
+    font-size: small;
+}
+
+.articles {
+    float: left;
+    width: 75%;
+    border-width: 3px; 
+    border-style: dotted;
+}
+
+.articles p {
+    padding: 5%;
+}
+
+.liste-articles {
+    float: right;
+    width: 23%;
+}
+
+
+
